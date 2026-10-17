@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WarriorTokenSMP.aternos.me",
-    "port": 45940,
+    "ip": "WarriorSMP505.aternos.me",
+    "port": 12390,
     "version": "1.20.1",
     "try-creative": false
   },
